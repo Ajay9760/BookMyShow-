@@ -1,5 +1,5 @@
 BookMyShow is a ticketing platform where users can book tickets for movie shows.
-For a given theatre, the app displays the next 7 dates, and upon selecting a date, it lists all shows running in that theatre along with their timings.
+For a given theatre, the app displays a day , it lists all shows running in that theatre along with their timings.
 
 This project models the scenario in SQL, ensuring the schema follows 1NF, 2NF, 3NF, and BCNF normalization principles.
  Description of BookMyShow Database Design
